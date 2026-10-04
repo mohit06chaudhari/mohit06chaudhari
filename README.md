@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working as a Cloud Support Engineer<br><br>🌱 Continuously learning Kubernetes, Terraform, GitOps, AWS, and modern DevOps practices<br><br>💻 Passionate about Linux, Cloud Infrastructure, DevOps, Automation, and Site Reliability Engineering<br><br>🚀 Building production-grade cloud-native projects to strengthen Cloud, DevOps, and SRE expertise<br><br>🎯 Actively seeking Cloud Engineer, DevOps Engineer, and Site Reliability Engineer (SRE) opportunities
+🔭 Currently working as a DevOps Engineer<br><br>🌱 Continuously learning Kubernetes, Terraform, GitOps, AWS, and modern DevOps practices<br><br>💻 Passionate about Linux, Cloud Infrastructure, DevOps, Automation, and Site Reliability Engineering<br><br>🚀 Building production-grade cloud-native projects to strengthen Cloud, DevOps, and SRE expertise<br><br>🎯 Actively seeking Cloud Engineer, DevOps Engineer, and Site Reliability Engineer (SRE) opportunities
 
 
 ## 🌐 Socials:
